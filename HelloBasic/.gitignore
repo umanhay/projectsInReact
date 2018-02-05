@@ -1,0 +1,4 @@
+/node_modules
+
+# Mac hidden file that stores custom attributes
+.DS_Store
